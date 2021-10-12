@@ -24,4 +24,3 @@ new PromiseClass((resolve) => {
     console.log('a', a)
 })
 
-

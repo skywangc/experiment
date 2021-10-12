@@ -44,3 +44,12 @@ process.nextTick(() => {
   })
 })
 
+enum Test{
+  a,
+  b,
+  c,
+  d
+}
+
+
+console.log(Test.c)
